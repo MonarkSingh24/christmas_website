@@ -1,0 +1,329 @@
+@media only screen and (max-width:1200px){
+    #timeagain{
+        font-size: 70px;
+    }
+    #saveupto{
+        font-size: 30px;
+    }
+    .santa{
+        top: 650px;
+        position: absolute;
+        right: 0px;
+    }
+    .bigtag{
+        top: 45px;
+        left: 75%;
+    }
+    #thirdsection img{
+        margin-top: -30px;
+        margin-bottom: -15px;
+        margin-left: -50px;
+        height: 428px;
+        width: 343px;
+    }
+    .smalltag{
+        margin-left: 60%;
+    }
+    .productimg{
+        margin-bottom: 20px;
+        margin-left: 12%;
+        width: 75%;
+    }
+    .producttext{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:990px){
+    body{
+        text-align: center;
+    }
+    h1{
+        font-size: 110px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    #holidaysale{
+        font-size: 45px;
+    }
+    #timeagain{
+        font-size: 60px;
+    }
+    #saveupto{
+        font-size: 24px;
+        padding: 10px;
+    }
+    .sectionhead{
+        padding: 0;
+    }
+    #fourthsection img{
+        margin-left: 0px;
+    }
+    .productimg{
+        margin-bottom: 20px;
+        width: 75%;
+    }
+    .bigbell{
+        top: 20%;
+        left: 70%;
+    }
+    .smalltag{
+        margin-left: 60%;
+    }
+    .santa{
+        top: 650px;
+        position: absolute;
+        right: 0px;
+    }
+    .santaimg{
+        width: 250px;
+        height: 320px;
+    }
+}
+@media only screen and (max-width:800px){
+    
+    h1{
+        font-size: 95px;
+    }
+    h3{
+        font-size: 16px;
+        margin: 0px;
+    }
+    #firstsection{
+        height: 500px;
+    }
+    #holidaysale{
+        font-size: 45px;
+    }
+    #timeagain{
+        font-size: 50px;
+    }
+    #saveupto{
+        font-size: 20px;
+        padding: 10px;
+    }
+    .bigbell{
+        margin-top: 0px;
+    }
+    #fourthsection{
+        background: none;
+    }
+    .santa{
+        top: 660px;
+        position: absolute;
+        right: 0px;
+        visibility: hidden;
+    }
+    .smalltag{
+        margin-left: 55%;
+    }
+    
+}
+@media only screen and (max-width:640px){
+    .sticky , .santa{
+        display: none;
+    }
+    h1{
+        font-size: 75px;
+    }
+    h3{
+        font-size: 13px;
+        margin: 0;
+    }
+    #firstsection{
+        height: 360px;
+    }
+    #firstsection .container{
+        padding-top: 30px;
+    }
+    #firstsection p{
+        padding-top:60px ;
+    }
+    #holidaysale{
+        font-size: 40px;
+    }
+    #timeagain{
+        font-size: 45px;
+    }
+    #saveupto{
+        font-size: 18px;
+        padding: 10px;
+    }
+    #offerends{
+        margin-top: 0px;
+    }
+    .bigbell{
+        height: 110px;
+        width: 110px;
+        position: absolute;
+        top: 300px;
+        left: 30%;
+    }
+    .bigtag{
+        left: 65%;
+    }
+    .smalltag{
+        margin-left: 50%;
+    }
+    #fourthsection{
+        background: none;
+    }
+    input{
+        padding: 15px 30px;
+        width: 85%;
+        margin: 20px 0px 0px 0px ;
+    }
+ }
+
+ @media only screen and (max-width: 530px) {
+    h1
+    {
+        font-size: 60px;
+    }
+    h2
+    {
+        font-size: 20px;
+    }
+    h3
+    {
+        font-size: 12px;
+
+    }
+    .sectionhead p
+    {
+        font-size: 14px;
+    }
+    #first_section
+    {
+        height: 320px;
+    }
+    #first_section .btn
+    {
+        margin-top: 10px;
+    }
+    #holiday_season_sale
+    {
+        font-size: 30px;
+    }
+    #time_again
+    {
+        font-size: 38px;
+    }
+    #save_up_to
+    {
+        font-size: 18px;
+        padding: 10px;
+    }
+    #offer_ends
+    {
+    margin-top: -30px;   
+    }
+   
+    #third_section img {
+        max-width: 100%;
+    }
+    .bigbell {
+    
+
+        top: 270px;
+     left: 30%;
+
+    }
+
+    .smalltag {
+        left: 0;
+    }
+    .logo {
+        font-size: 28px;
+    }
+   
+    .santaicon
+    {
+        height: 200px;
+        width: 150px;
+    }
+}
+
+/* Even Smaller Mobile Devices */
+@media only screen and (max-width: 380px) {
+    h1 {
+        font-size: 50px;
+    }
+
+    #first_section .container {
+        padding-top: 50px;
+    }
+    #holiday_season_sale
+    {
+        font-size: 26px;
+    }
+    #time_again
+    {
+        font-size: 34px;
+    }
+    #save_up_to
+    {
+        font-size: 15px;
+        padding: 5px;      
+    }
+    #offer_ends
+    {
+    margin-top: -20px;   
+    }
+    .optional {
+        display: none;
+    }
+    .bigbell {
+        display: none;
+    }
+    .bigtag {
+        left: 60%;
+    }
+    .smalltag {
+        left: 180px;
+    }
+    #fourth_section
+    {
+        background: none;  
+    }
+    .santaicon
+    {
+        height: 160px;
+        width: 120px;
+    }
+}
+
+/* Smallest Mobile Devices */
+@media only screen and (max-width: 320px) {
+    h1 {
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 17px;
+    }
+
+    #save_up_to
+    {
+        font-size: 15px;
+       
+    }
+    #offer_ends
+    {
+    margin-top: -10px;   
+    }
+    #second_section {
+        padding-top: 50px;
+    }
+    .bigbell {
+        display: none;
+    }
+    .bigtag {
+        left: 180px;
+    }
+   .santaicon
+    {
+        height: 160px;
+        width: 120px;
+    }
+}
